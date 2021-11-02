@@ -1,0 +1,321 @@
+{
+  "layerInfos": [
+    {
+      "name": "Sebaran Fasilitas Kesehatan",
+      "id": "75a486bd3ebd423b824fd7e791624920",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/Tugas_Mandiri___Minggu_6_WFL1/FeatureServer/0",
+        "fields": [
+          {
+            "name": "FID",
+            "alias": "FID",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "GmlID",
+            "alias": "GmlID",
+            "show": true
+          },
+          {
+            "name": "Nama",
+            "alias": "Nama",
+            "show": true
+          },
+          {
+            "name": "JENIS_UTAM",
+            "alias": "JENIS_UTAM",
+            "show": true
+          },
+          {
+            "name": "JENIS",
+            "alias": "JENIS",
+            "show": true
+          },
+          {
+            "name": "Kegiatan",
+            "alias": "Kegiatan",
+            "show": true
+          },
+          {
+            "name": "Sumber",
+            "alias": "Sumber",
+            "show": true
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "FID",
+      "isDescending": false
+    },
+    {
+      "name": "Jaringan Jalan",
+      "id": "d30806767daf47aa87809a526f30aea3",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/Tugas_Mandiri___Minggu_6_WFL1/FeatureServer/1",
+        "fields": [
+          {
+            "name": "FID",
+            "alias": "FID",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "GmlID",
+            "alias": "GmlID",
+            "show": true
+          },
+          {
+            "name": "OBJECTID",
+            "alias": "OBJECTID",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "Fungsi",
+            "alias": "Fungsi",
+            "show": true
+          },
+          {
+            "name": "Nama",
+            "alias": "Nama",
+            "show": true
+          },
+          {
+            "name": "Status",
+            "alias": "Status",
+            "show": true
+          },
+          {
+            "name": "Sumber",
+            "alias": "Sumber",
+            "show": true
+          },
+          {
+            "name": "Nama_Lain",
+            "alias": "Nama_Lain",
+            "show": true
+          },
+          {
+            "name": "Panjang_m",
+            "alias": "Panjang_m",
+            "show": true,
+            "format": {
+              "places": 6,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "Nama_Ruas",
+            "alias": "Nama_Ruas",
+            "show": true
+          },
+          {
+            "name": "Shape__Length",
+            "alias": "Shape__Length",
+            "show": true,
+            "format": {
+              "places": 6,
+              "digitSeparator": false
+            }
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "FID",
+      "isDescending": false
+    },
+    {
+      "name": "Batas Kecamatan",
+      "id": "ea701e8f9713467f9d0b881ffb345e08",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/Tugas_Mandiri___Minggu_6_WFL1/FeatureServer/2",
+        "fields": [
+          {
+            "name": "FID",
+            "alias": "FID",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "GmlID",
+            "alias": "GmlID",
+            "show": true
+          },
+          {
+            "name": "OBJECTID",
+            "alias": "OBJECTID",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "Shape_Leng",
+            "alias": "Shape_Leng",
+            "show": true,
+            "format": {
+              "places": 6,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "F_Shape_Are",
+            "alias": "_Shape_Are",
+            "show": true,
+            "format": {
+              "places": 6,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "KECAMATAN",
+            "alias": "KECAMATAN",
+            "show": true
+          },
+          {
+            "name": "Shape__Area",
+            "alias": "Shape__Area",
+            "show": true,
+            "format": {
+              "places": 6,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "Shape__Length",
+            "alias": "Shape__Length",
+            "show": true,
+            "format": {
+              "places": 6,
+              "digitSeparator": false
+            }
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "FID",
+      "isDescending": false
+    },
+    {
+      "name": "LC_SLEMAN",
+      "id": "efd55860240f4674ae3f02c21a5fe476",
+      "layer": {
+        "url": "https://services3.arcgis.com/ph3kXj7c6Bqf3eeX/arcgis/rest/services/Tugas_Mandiri___Minggu_6_WFL1/FeatureServer/3",
+        "fields": [
+          {
+            "name": "FID",
+            "alias": "FID",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "GmlID",
+            "alias": "GmlID",
+            "show": true
+          },
+          {
+            "name": "OBJECTID_1",
+            "alias": "OBJECTID_1",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "OBJECTID",
+            "alias": "OBJECTID",
+            "show": true,
+            "format": {
+              "places": 0,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "PENUTUP_LA",
+            "alias": "PENUTUP_LA",
+            "show": true
+          },
+          {
+            "name": "Sumber",
+            "alias": "Sumber",
+            "show": true
+          },
+          {
+            "name": "Luas_m",
+            "alias": "Luas_m",
+            "show": true,
+            "format": {
+              "places": 6,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "Luas_HA",
+            "alias": "Luas_HA",
+            "show": true,
+            "format": {
+              "places": 6,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "Shape__Area",
+            "alias": "Shape__Area",
+            "show": true,
+            "format": {
+              "places": 6,
+              "digitSeparator": false
+            }
+          },
+          {
+            "name": "Shape__Length",
+            "alias": "Shape__Length",
+            "show": true,
+            "format": {
+              "places": 6,
+              "digitSeparator": false
+            }
+          }
+        ]
+      },
+      "show": false,
+      "showAttachments": false,
+      "sortField": "FID",
+      "isDescending": false
+    }
+  ],
+  "table": {
+    "pageSizeOptions": [
+      25,
+      50,
+      100,
+      1000
+    ]
+  },
+  "hideExportButton": true,
+  "initiallyExpand": false,
+  "filterByMapExtent": true,
+  "allowTextSelection": true,
+  "syncWithLayers": false
+}
